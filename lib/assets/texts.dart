@@ -1,0 +1,14 @@
+const String appTitle = "Flutter Game App";
+const String enterName = "Enter player name:";
+const String start = "START";
+const String players = "PLAYERS";
+const String plays = "  IGRA:   ";
+const String questionAbout = "PITANJE O:";
+const String answer = "ANSWER";
+const String correctAnswers = "  TOČNI ODGOVORI:   ";
+const String challenge = "IZAZOV";
+const String next = "DALJE";
+const String end = "KRAJ";
+const String error = "ERROR";
+const String enterAnswer = "Enter answer:";
+const String answers = "ANSWERS";
